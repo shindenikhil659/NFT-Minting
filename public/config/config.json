@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa50309d54Ec9405E671DDeDB9513f458ccd5cA6A",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "The Nik's NFT",
+  "SYMBOL": "TNF",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 0,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
+  "SHOW_BACKGROUND": true
+}
